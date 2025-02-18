@@ -7,9 +7,9 @@
 
 -Developed by Ali yari
 
--created 2024/11/27
+-created 2024/12/17
 
--Technologies used - html - css
+-Technologies used - html - css - bootstrap
 
 -Role Frontend
 

@@ -5,4 +5,14 @@
 
 
 
+-Developed by Ali yari
+
+-created 2024/11/27
+
+-Technologies used - html - css
+
+-Role Frontend
+
+
+
 <a href="https://aliyari1060.github.io/Avada-phtography/">online web</a>
